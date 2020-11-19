@@ -6,7 +6,7 @@ public class MainBranch {
 		// TODO Auto-generated method stub
 		//main branch
 		System.out.println("feature2 branch");
-		System.out.println("Dev Branch");
+		System.out.println("Feature 3 branch");
 
 	}
 
