@@ -8,6 +8,7 @@ public class MainBranch {
 		System.out.println("feature2 branch");
 		System.out.println("Feature 3 branch");
 		System.out.println("feature4");
+		System.out.println("feature5");
 
 	}
 
